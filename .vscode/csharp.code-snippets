@@ -1,0 +1,9 @@
+{
+  "Union declaration": {
+    "prefix": "net1101",
+    "body": [
+      "public union ${1:HomePets}(${2:Dog}, ${3:Cat}, ${4:Fish});"
+    ],
+    "description": "Declare a union type"
+  }
+}
