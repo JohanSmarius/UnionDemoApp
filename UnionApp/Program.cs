@@ -11,16 +11,7 @@ internal class Program
     {
  
 
-    //     foreach (var p in pets)
-    //     {
-    //         var message = p switch
-    //         {
-    //             Dog d => $"Dog: {d.Name}",
-    //             Cat c => $"Cat: {c.Name}",
-    //             Fish f => $"Fish: {f.kind}",
-    //         };
-    //         Console.WriteLine(message);
-    //     }
+
     }
 }
 
